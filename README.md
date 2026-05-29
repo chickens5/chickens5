@@ -1,7 +1,7 @@
  _**Return to Eden**_
 * Hello, my names Gabriel and I am a Computer Science Professional.
 
-[Geomagnetic Storm Predictor App]([url](https://chickens5.github.io/barista/))
+[Geomagnetic Storm Predictor App][https://chickens5.github.io/barista/])
 
 [Indoor Agriculture/research App
 ]([url](https://github.com/chickens5/grimlock))
