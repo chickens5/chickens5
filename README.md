@@ -1,5 +1,5 @@
- _**Return to Eden**_
-* Hello, my names Gabriel and I am a Computer Science Professional.
+ _*Welcome*_
+* My names Gabriel and I'm a nerd. I like building applications centered around ecology/conservation, Space, Data Science, & Sustainability/Community.
 
 [Geomagnetic Storm Predictor App](https://chickens5.github.io/barista/)
 
