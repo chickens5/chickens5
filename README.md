@@ -6,7 +6,7 @@
 [Indoor Agriculture/research App
 ](https://github.com/chickens5/grimlock)
 
-[Native Plant App](https://chickens5.github.io/eden-tool/)
+[My Portfolio, As Some May Say](https://chickens5.github.io/eden-tool/)
 
 ![TheLife](https://github.com/user-attachments/assets/096dbda1-af31-4d0f-b57a-12728f7d3713)
 
