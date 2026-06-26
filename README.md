@@ -4,9 +4,9 @@ I'm interested in building applications focussed on Ecology/Conservation, Space,
 
 [My Portfolio, Still in Progress](https://chickens5.github.io/eden-tool/)
 
-[Geomagnetic Storm Predictor App](https://chickens5.github.io/barista/)
+[Geomagnetic Storm Predictor(Python/React)](https://chickens5.github.io/barista/)
 
-[Indoor Agriculture/research App
+[Indoor Agriculture/research (React/Nodejs/MongoDB)
 ](https://github.com/chickens5/grimlock)
 
 
