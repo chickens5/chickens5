@@ -1,5 +1,6 @@
- _*Welcome*_
-* My names Gabriel and I'm a nerd. I'm interested in building applications focussed on Ecology/Conservation, Space, Data Science, & Sustainability/Community.
+# Welcome
+*Gabe ~ chickens5 
+I'm interested in building applications focussed on Ecology/Conservation, Space, Data Science, & Sustainability/Community.
 
  ~ [My Portfolio, As Some May Say](https://chickens5.github.io/eden-tool/)
 
